@@ -12,5 +12,6 @@ And his online book: [Category Theory for Programmers](https://bartoszmilewski.c
 | [Examples of Categories, Orders, Monoids](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Examples%20of%20Categories%2C%20Orders%2C%20Monoids.pdf) | https://www.youtube.com/watch?v=aZjhqkD6k6w | |
 | [Terminal and Initial Objects, Products](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Terminal%20and%20Initial%20Objects%2C%20Products.pdf) | https://www.youtube.com/watch?v=zer1aFgj4aU | |  
 
-Contributions to challenges are welcome and encouraged!
+---
+Contributions to challenges are welcome and encouraged!  
 If you have issue with the notes, raise an issue and I'll work to fix it.
