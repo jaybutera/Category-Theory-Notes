@@ -2,6 +2,8 @@
 ### by Bartosz Milewski
 
 The course is a free lecture series [on YouTube](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+Also check out [Milewski's Basics of Haskell](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell)
+And his online book: [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 | Notes | Video |
 | ----- | ----- |
