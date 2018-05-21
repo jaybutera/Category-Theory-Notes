@@ -1,0 +1,25 @@
+(I chose python3)
+
+1.
+def id(x): return x
+
+2.
+def compose(a,b): return lambda x: a(b(x))
+
+3.
+// Return 16
+compose(lambda x: x**2, id)(4)
+compose(id, lambda x: x**2)(4)
+
+4.
+The world-wide-web is not a category since it does not necessarily guarentee identity and composition. In order for it
+to be a category, each page would need to link to itself (identity), and each page would need to link to all the pages
+its linked pages linked to. That would be a lot of links.
+
+5.
+Facebook is also not a category under the given mapping. In order to be a category, users would need to be friends with
+themselves (identity) and friends with all their friends' friends (composition).
+
+6.
+A directed graph is a category when all nodes link to themselves (identity) and an edge from a to b with another edge
+from b to c imples an edge from a to c exists (composition).
