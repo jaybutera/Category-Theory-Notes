@@ -10,3 +10,4 @@ And his online book: [Category Theory for Programmers](https://bartoszmilewski.c
 | [Introduction](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Introduction.pdf) | https://www.youtube.com/watch?v=I8LbkfSSR58&index=1&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_ | |
 | [Functions, Epimorphisms](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Functions%2C%20Epimorphisms.pdf) | https://www.youtube.com/watch?v=O2lZkr-aAqk&index=3&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_ | |
 | [Examples of Categories, Orders, Monoids](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Examples%20of%20Categories%2C%20Orders%2C%20Monoids.pdf) | https://www.youtube.com/watch?v=aZjhqkD6k6w | |
+| [Terminal and Initial Objects, Products](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Terminal%20and%20Initial%20Objects%2C%20Products.pdf) | https://www.youtube.com/watch?v=zer1aFgj4aU | |
