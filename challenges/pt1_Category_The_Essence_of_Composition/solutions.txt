@@ -12,9 +12,12 @@ compose(lambda x: x**2, id)(4)
 compose(id, lambda x: x**2)(4)
 
 4.
-The world-wide-web is not a category since it does not necessarily guarentee identity and composition. In order for it
-to be a category, each page would need to link to itself (identity), and each page would need to link to all the pages
-its linked pages linked to. That would be a lot of links.
+Mapping the world-wide-web to a category requires more than just links as morphisms. If objects were pages and links
+were the only morphisms, each page would need to link to itself (identity), and each page would need to link to all the pages
+its linked pages linked to. That would be a lot of links. If we add another morphism as the ability to reach an object
+from an object, we then have a category. Identity would be preserved because it is always possible to reach the page you
+are currently on. Morphisms would preserve composition because (a~b ^ b~c -> a~c). That is, there is a way to reach
+another object if there is a path to that object.
 
 5.
 Facebook is also not a category under the given mapping. In order to be a category, users would need to be friends with
