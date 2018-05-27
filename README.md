@@ -12,6 +12,7 @@ And his online book: [Category Theory for Programmers](https://bartoszmilewski.c
 | [Examples of Categories, Orders, Monoids](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Examples%20of%20Categories%2C%20Orders%2C%20Monoids.pdf) | https://www.youtube.com/watch?v=aZjhqkD6k6w | |
 | [Terminal and Initial Objects, Products](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Terminal%20and%20Initial%20Objects%2C%20Products.pdf) | https://www.youtube.com/watch?v=zer1aFgj4aU | |
 | [Coproducts, Algebraic Data Types](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Coproducts%2C%20Algebraic%20Data%20Types.pdf) | https://www.youtube.com/watch?v=LkIRsNj9T-8 | |  
+| [Functors](https://github.com/jaybutera/Category-Theory-Notes/blob/master/Functors.pdf) | https://www.youtube.com/watch?v=FyoQjkwsy7o | |  
 
 ---
 Contributions to challenges are welcome and encouraged!  
